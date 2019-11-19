@@ -1,1 +1,1 @@
-# app
+# Der Trinkgeldrechner
