@@ -1,1 +1,2 @@
-# Der Trinkgeldrechner
+## Der Trinkgeldrechner
+# Version 1.3
